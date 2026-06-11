@@ -1,2 +1,4 @@
-# lede-2026
+# Homework 6
+
+Parts 1 (Animals) and 2 (Billionaires)
 
