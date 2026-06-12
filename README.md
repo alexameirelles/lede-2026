@@ -1,4 +1,4 @@
-### Exercises with Pandas
+## Exercises with Pandas
 
 This repository contains two Jupyter notebooks developed as part of a data analysis exercise using Python and Pandas for the LEDE Program. The goal was to practice data exploration, filtering, analysis, and visualization techniques.
 
